@@ -1,0 +1,16 @@
+{
+  "name": "DShot-hal-stm32",
+  "version": "0.0.1",
+  "description": "DShot implementation using DMA on the STM32",
+  "keywords": "dshot, rmt, esc",
+  "authors":
+  [
+    {
+	  
+      "name": "DrGlaucous",
+      "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "ststm32"
+}

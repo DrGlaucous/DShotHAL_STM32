@@ -1,5 +1,15 @@
 # stm32_hal_dshot
 
+## What is this fork?
+
+This fork takes the preexisting DSHOT library for the STM32 and ports it to platformIO
+
+---
+<details>
+  <summary style="font-size:100%;"><i><b>Old readme</b></i></summary>
+
+
+
 ## Brief
 __Dshot is drone ESC digital protocol__   
 
@@ -145,3 +155,6 @@ int main (void)
     }
 }
 ```
+
+
+</details>
