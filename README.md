@@ -2,7 +2,9 @@
 
 ## What is this fork?
 
-This fork takes the preexisting DSHOT library for the STM32 and ports it to platformIO
+This fork takes the preexisting DSHOT library for the STM32 and attempts to port it to platformIO
+
+*Note: This fork is currently **non-functional!***
 
 ---
 <details>
